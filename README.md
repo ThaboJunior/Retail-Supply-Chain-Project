@@ -1,7 +1,5 @@
 # Retail-Supply-Chain-Project
 
-# Retail Supply Chain Dashboard
-
 ## 📌Project Overview
 
 This project analyzes retail supply chain data using Microsoft Excel. The dashboard provides insights into sales performance, profitability, regional performance, customer trends, and product analysis.
