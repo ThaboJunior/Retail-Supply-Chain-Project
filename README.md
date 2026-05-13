@@ -57,7 +57,9 @@ KPI Cards
 
 - Total Orders
 
-###🎯 Visualizations
+---
+
+🎯 Visualizations
 
 - Sales Over Time
 
@@ -73,7 +75,7 @@ KPI Cards
 
 ---
 
-## 📈Key Insights
+📈Key Insights
 
 - Technology products generated the highest profits.
   
@@ -87,13 +89,13 @@ KPI Cards
 
 ---
 
-## Dashboard Preview
+Dashboard Preview
 
 ![Dashboard](Images/dashboard-preview.png)
 
 ---
 
-## 🚀Skills Demonstrated
+🚀Skills Demonstrated
 
 - Data Cleaning
 
@@ -111,6 +113,6 @@ KPI Cards
 
 ---
 
-## Author
+Author
 
 Thabo Molibeli
