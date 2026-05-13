@@ -7,7 +7,7 @@ This project analyzes retail supply chain data using Microsoft Excel. The dashbo
 ---
 
 
-##🛠️Tools Used
+## 🛠️Tools Used
 
 - Microsoft Excel
 
@@ -21,7 +21,7 @@ This project analyzes retail supply chain data using Microsoft Excel. The dashbo
 
 ---
 
-##🗂️ Dataset Information
+## 🗂️ Dataset Information
 
 The dataset contains:
 
@@ -43,7 +43,7 @@ The dataset contains:
 
 ---
 
-##Dashboard Features
+## Dashboard Features
 
 KPI Cards
 
@@ -57,7 +57,7 @@ KPI Cards
 
 ---
 
-##🎯 Visualizations
+## 🎯 Visualizations
 
 - Sales Over Time
 
@@ -73,7 +73,7 @@ KPI Cards
 
 ---
 
-##📈Key Insights
+## 📈Key Insights
 
 - Technology products generated the highest profits.
   
@@ -87,13 +87,13 @@ KPI Cards
 
 ---
 
-##Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](Images/dashboard-preview.png)
 
 ---
 
-##🚀Skills Demonstrated
+## 🚀Skills Demonstrated
 
 - Data Cleaning
 
@@ -111,6 +111,6 @@ KPI Cards
 
 ---
 
-##Author
+## Author
 
 Thabo Molibeli
