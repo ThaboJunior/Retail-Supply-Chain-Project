@@ -8,7 +8,7 @@ This project analyzes retail supply chain data using Microsoft Excel. The dashbo
 
 ---
 
-##
+
 🛠️Tools Used
 
 - Microsoft Excel
@@ -23,7 +23,7 @@ This project analyzes retail supply chain data using Microsoft Excel. The dashbo
 
 ---
 
-##🗂️ Dataset Information
+🗂️ Dataset Information
 
 The dataset contains:
 
@@ -45,9 +45,9 @@ The dataset contains:
 
 ---
 
-## Dashboard Features
+Dashboard Features
 
-### KPI Cards
+KPI Cards
 
 - Total Sales
 
