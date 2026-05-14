@@ -75,21 +75,15 @@ KPI Cards
 
 ## 📈Key Insights
 
-- Technology products generated the highest profits.
-  
-- Office Supplies contributed the highest quantity sold.
+-Sales trends showed fluctuations throughout the year, with strong peaks during September and November, suggesting seasonal demand patterns.
 
-- The East region generated the largest share of sales.
+-Technology generated the highest sales and strongest profitability, while Furniture showed lower profit efficiency despite high revenue  ontribution.
 
-- Higher discounts negatively impacted profitability.
+-The West and East regions were the strongest revenue contributors, while the South region lagged behind.
 
-- Sales peaked during specific seasonal periods.
+-Office Supplies accounted for the majority of products sold, indicating high recurring demand.
 
----
-
-## Dashboard Preview
-
-![Dashboard](Images/dashboard-preview.png)
+-High sales volumes did not always translate into proportional profits, highlighting the impact of discounts and category level cost structures.
 
 ---
 
